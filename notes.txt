@@ -1,0 +1,19 @@
+Build a blog, respond to spec changes.
+
+TDD w RSpec.
+
+Host on Amazon, Rails 4.1, Ruby 1.9, Postgres 
+
+— Brain Spikes
+
+How do I host a Rails App on AWS?
+
+	http://www.sitepoint.com/deploy-your-rails-app-to-aws/
+
+What does a “good” Rails 4.1 app look like code wise?
+
+	LA Rubyconf 2015- Build to Last... by Mike Moore
+	https://www.youtube.com/watch?v=8YUed3l2BZY
+
+Best way to Do RSpec?
+
